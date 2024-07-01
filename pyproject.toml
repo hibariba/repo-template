@@ -1,0 +1,14 @@
+[project]
+name = "repo-template"
+version = "0.1.0"
+description = "A short description of your project"
+dependencies = [
+    "pydantic",
+    "datasets",
+    "python-dotenv",
+    "ipykernel",
+]
+
+[build-system]
+requires = ["setuptools", "wheel"]
+build-backend = "setuptools.build_meta"
