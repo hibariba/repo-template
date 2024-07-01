@@ -35,9 +35,7 @@ repo_template/
 ├── .env_template               # list of variables expected in .env
 └── cache.nosync/               # local cache ignored by git and iCloud Drive
      ├── downloads
-     ├── venv
-     ├── tmp
-     └── trash
+     └── venv
 ```
 
 ## development
