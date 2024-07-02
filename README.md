@@ -42,8 +42,8 @@ repo_template/
 
 1. create venv
     ```
-    python3 -m venv .nosync/venv
-    source .nosync/venv/bin/activate
+    python3 -m venv cache.nosync/venv
+    source cache.nosync/venv/bin/activate
     ```
 2. Install pip-tools if you haven't already:
     ```
